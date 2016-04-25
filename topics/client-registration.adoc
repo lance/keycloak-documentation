@@ -108,7 +108,7 @@ This means that for the JavaScript adapter you can load the client configuration
 
 Keycloak implements https://openid.net/specs/openid-connect-registration-1_0.html[OpenID Connect Dynamic Client Registration], which extends https://tools.ietf.org/html/rfc7591[OAuth 2.0 Dynamic Client Registration Protocol] and https://tools.ietf.org/html/rfc7592[OAuth 2.0 Dynamic Client Registration Management Protocol]. 
 
-The endpoint to use these specifications to register clients in Keycloak is: `<KEYCLOAK URL>/realms/<realm>/clients-registrations/oidc[/<client id>]`. 
+The endpoint to use these specifications to register clients in Keycloak is: `<KEYCLOAK URL>/realms/<realm>/clients-registrations/openid-connect[/<client id>]`. 
 
 This endpoints can also be found in the OpenID Connect Discovery endpoint for the realm: `<KEYCLOAK URL>/realms/<realm>/.well-known/openid-configuration`. 
 
