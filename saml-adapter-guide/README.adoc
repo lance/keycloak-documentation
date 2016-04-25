@@ -1,1 +1,1 @@
-= Keycloak Reference Guide
+= Keycloak SAML Client Adapter Reference Guide

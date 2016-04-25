@@ -1,4 +1,3 @@
-[[_jetty9_adapter]]
 = Jetty 9.x SAML Adapters
 
 Keycloak has a separate SAML adapter for Jetty 9.x.

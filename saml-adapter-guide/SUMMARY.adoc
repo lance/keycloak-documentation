@@ -22,5 +22,22 @@
  . link:topics/saml_adapter_tomcat_adapter.adoc[Tomcat 6, 7 and 8 SAML adapters]
  .. link:topics/saml_adapter_tomcat_adapter_installation.adoc[Adapter Installation]
  .. link:topics/saml_adapter_tomcat_adapter_per_war_config.adoc[Required Per WAR Configuration]
+ . link:topics/saml_adapter_jetty9-adapter.adoc[Jetty 9.x SAML Adapters]
+ .. link:topics/saml_adapter_jetty9_installation.adoc[Adapter Installation]
+ .. link:topics/saml_adapter_jetty9_per_war_config.adoc[Required Per WAR Configuration]
+ . link:topics/saml_adapter_jetty8-adapter.adoc[Jetty 8.1.x SAML Adapters]
+ .. link:topics/saml_adapter_jetty8-installation.adoc[Adapter Installation]
+ .. link:topics/saml_adapter_jetty8-per_war_config.adoc[Required Per WAR Configuration]
+ . link:topics/saml_adapter_servlet-filter-adapter.adoc[Java Servlet Filter Adapter]
+ . link:topics/saml_adapter_idp-registration.adoc[Registering with an IDP]
+ . link:topics/saml_adapter_logout.adoc[Logout]
+ . link:topics/saml_adapter_assertion-api.adoc[Obtaining Assertion Attributes]
+ . link:topics/saml_adapter_error_handling.adoc[Error Handling] 
+ . link:topics/saml_adapter_debugging.adoc[Troubleshooting]
+ . link:topics/saml_adapter_MigrationFromOlderVersions.adoc[Migration from older versions]
+ .. link:topics/saml_adapter_version_specific_migration.adoc[Version specific migration]
+ ... link:topics/saml_adapter_migrating_1.9.0.adoc[Migrating to 1.9.0]
+
+
 
  

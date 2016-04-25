@@ -1,10 +1,3 @@
-[[_jetty8_adapter]]
-= Jetty 8.1.x SAML Adapter
-
-Keycloak has a separate SAML adapter for Jetty 8.1.x that you will have to install into your Jetty installation.
-You then have to provide some extra configuration in each WAR you deploy to Jetty.
-Let's go over these steps. 
-
 [[_jetty8_adapter_installation]]
 == Adapter Installation
 
@@ -33,7 +26,3 @@ Edit start.ini and add keycloak to the options
 OPTIONS=Server,jsp,jmx,resources,websocket,ext,plus,annotations,keycloak
 ----        
 
-== Required Per WAR Configuration
-
-Enabling Keycloak for your WARs is the same as the Jetty 9.x adapter.
-See <<_jetty9_per_war,Required Per WAR Configuration>>        
