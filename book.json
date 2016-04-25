@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "anchor-navigation",
+        "collapsible-menu",
+        "scrollablecode"
+    ],
+    "pluginsConfig": {}
+}
